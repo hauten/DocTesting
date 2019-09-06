@@ -23,8 +23,8 @@ python:
   version: 3.6.8
   install:
     - method: pip
-    path: .
-    extra_requirements:
+      path: .
+      extra_requirements:
       - docs
     - method: setuptools
-    path: package
+      path: package
