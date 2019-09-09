@@ -8,10 +8,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../..'))
-sys.path.insert(0, os.path.abspath('.'))
-sys.path.insert(0, os.path.abspath('./docs'))
-sys.path.insert(0, os.path.abspath('./docs/source'))
+sys.path.insert(0, os.path.abspath('../DocTesting'))
 
 
 # -- Project information -----------------------------------------------------
@@ -54,7 +51,7 @@ exclude_patterns = ['_build']
 source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'contents'
+master_doc = 'index'
 
 # The suffix of source filenames.
 source_suffix = '.rst'
