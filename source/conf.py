@@ -29,6 +29,7 @@ release = 'X.Y'
 extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.graphviz',
               'sphinx.ext.napoleon',
+              'sphinx.ext.githubpages',
               'sphinx.ext.todo']
 
 # Set default graphviz options
@@ -56,6 +57,8 @@ master_doc = 'index'
 # The suffix of source filenames.
 source_suffix = '.rst'
 
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
 
 # -- Options for HTML output -------------------------------------------------
 
