@@ -8,7 +8,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../'))
+sys.path.insert(0, os.path.abspath('../../DocTesting'))
 
 
 # -- Project information -----------------------------------------------------
@@ -18,7 +18,7 @@ copyright = '2019, Holly Auten'
 author = 'Holly Auten'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0'
+release = 'X.Y'
 
 
 # -- General configuration ---------------------------------------------------
