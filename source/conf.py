@@ -8,13 +8,13 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../..'))
+sys.path.insert(0, os.path.abspath('../source'))
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'DocTesting'
-copyright = '2019, Holly Auten'
+copyright = '2019'
 author = 'Holly Auten'
 
 # The full version, including alpha/beta/rc tags
