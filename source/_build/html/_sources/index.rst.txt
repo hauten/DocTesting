@@ -9,8 +9,16 @@ Documentation: DocTesting
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents
 
    contact
    setup
+
+.. toctree::
+   :maxdepth: 2
+   :caption: References
+
+   bibliography
+   other_sources
 
 
