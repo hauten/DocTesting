@@ -54,7 +54,7 @@ exclude_patterns = ['_build']
 source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'contents'
 
 # The suffix of source filenames.
 source_suffix = '.rst'
