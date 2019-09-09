@@ -29,8 +29,7 @@ release = 'X.Y'
 extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.graphviz',
               'sphinx.ext.napoleon',
-              'sphinx.ext.todo',
-              'sphinxcontrib.programoutput']
+              'sphinx.ext.todo']
 
 # Set default graphviz options
 graphviz_dot_args = [
