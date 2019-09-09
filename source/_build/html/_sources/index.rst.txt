@@ -10,7 +10,7 @@ Documentation: DocTesting
 .. toctree::
    :maxdepth: 2
 
-   docs/contact
-   docs/setup
+   contact
+   setup
 
 
